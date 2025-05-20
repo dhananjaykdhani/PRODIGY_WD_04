@@ -31,6 +31,8 @@ The portfolio is designed to present my skills, projects, education, and profess
 
 ## Preview
 
+<img width="1470" alt="Screenshot 2025-05-20 at 8 01 13 PM" src="https://github.com/user-attachments/assets/e45101e4-c07a-40a3-87dc-c4819233cfbe" />
+
 
 ## How to Use
 
